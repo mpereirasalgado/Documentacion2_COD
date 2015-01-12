@@ -1,9 +1,16 @@
 
 package boletin15;
 
-/** @author mpereirasalgado*/
+/**
+ * @version 1.0
+ * @author mpereirasalgado*/
 public class Boletin15 
 {
+
+    /**
+     * clase principal donde se instancian los objetos
+     * @param args
+     */
     public static void main(String[] args) 
     {
         Integrante integrante=new Integrante(34,"Xavi","Paez",24);
