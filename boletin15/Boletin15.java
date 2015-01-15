@@ -13,7 +13,7 @@ public class Boletin15
      */
     public static void main(String[] args) 
     {
-        Integrante integrante=new Integrante(34,"Xavi","Paez",24);
+        //Integrante integrante=new Integrante(34,"Xavi","Paez",24);
         Xogador xogador1=new Xogador(10,"Xavi","Paez",24,"dianteiro");
         Adestrador adestrador=new Adestrador(00,"Alex","Rexa",88,"AAA");
         Masaxista masaxista=new Masaxista(02,"Fabia","Leiza",36,"masaxista",10);
